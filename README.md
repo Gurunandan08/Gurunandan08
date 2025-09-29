@@ -1,7 +1,11 @@
-# 👋 Hi, I'm V!
+# 👋 Hi, I'm V Gurunandan Gowda!
 
-![GitHub followers](https://img.shields.io/github/followers/Gurunandan08?style=social)
-![GitHub stars](https://img.shields.io/github/stars/Gurunandan08?style=social)
+![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow?logo=powerbi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Database-blue?logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-green?logo=microsoft-excel&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange?logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-Machine%20Learning-blue?logo=scikit-learn&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Programming-blue?logo=python&logoColor=white)
 
 ## 💻 About Me
 I'm a **Computer Science graduate** with a deep passion for **Data Analytics** and **Data Science**. I thrive on transforming raw data into meaningful insights that empower organizations to make informed, strategic decisions.
@@ -18,6 +22,7 @@ I specialize in building **interactive dashboards** and **data visualizations** 
 - **Power BI**
 - **Microsoft Excel**
 - **SQL**
+- **Tableau**
 
 These tools help me make data accessible, intuitive, and actionable for teams across an organization.
 
@@ -46,6 +51,8 @@ Whether it’s time series forecasting, classification models, or clustering tec
   <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-lightgrey?logo=numpy&logoColor=white" alt="NumPy Badge"/>
   <img src="https://img.shields.io/badge/Matplotlib-Data%20Visualization-orange?logo=matplotlib&logoColor=white" alt="Matplotlib Badge"/>
   <img src="https://img.shields.io/badge/Seaborn-Statistical%20Plots-teal?logo=seaborn&logoColor=white" alt="Seaborn Badge"/>
+  <img src="https://img.shields.io/badge/Snowflake-Cloud%20Data%20Warehouse-lightblue?logo=snowflake&logoColor=white" alt="Snowflake Badge"/>
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Computing-orange?logo=amazon-aws&logoColor=white" alt="AWS Badge"/>
 </p>
 
 ---
