@@ -16,7 +16,13 @@ I specialize in building **interactive dashboards** and **data visualizations** 
 - **SQL**
 - **Tableau**
 
-These tools help me make data accessible, intuitive, and actionable for teams across an organization.
+I also use **Python for data analysis**, including:
+- **Cleaning and preprocessing messy datasets**
+- **Exploratory Data Analysis (EDA)**
+- **Feature engineering and transformation**
+
+These tools and techniques help me make data accessible, intuitive, and actionable for teams across an organization.
+
 
 ## 🧠 Data Science Toolkit
 I’m continuously expanding my skill set to include advanced machine learning and predictive modeling. My current toolkit includes:
@@ -48,6 +54,14 @@ Whether it’s time series forecasting, classification models, or clustering tec
 </p>
 
 ---
+
+## 📚 Relevant Coursework
+- **Data Integrity**
+- **Data Visualization**
+- **Data Manipulation**
+- **Generative AI**
+- **Requirement Gathering**
+- **Business Impact Analysis**
 
 ## 🚀 My Mission
 To foster **data-driven cultures** within organizations by:
