@@ -1,12 +1,5 @@
 # 👋 Hi, I'm V Gurunandan Gowda!
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow?logo=powerbi&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Database-blue?logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-green?logo=microsoft-excel&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange?logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-Machine%20Learning-blue?logo=scikit-learn&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Programming-blue?logo=python&logoColor=white)
-
 ## 💻 About Me
 I'm a **Computer Science graduate** with a deep passion for **Data Analytics** and **Data Science**. I thrive on transforming raw data into meaningful insights that empower organizations to make informed, strategic decisions.
 
