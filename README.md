@@ -7,8 +7,7 @@ With hands-on experience in:
 - **Analyzing large datasets**
 - **Debugging complex SQL queries**
 - **Applying data transformation techniques**
-
-I’ve supported business goals across multiple domains by delivering high-impact analytics solutions.
+  
 
 ## 📊 What I Do
 I specialize in building **interactive dashboards** and **data visualizations** using:
